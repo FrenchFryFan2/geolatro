@@ -1,0 +1,20 @@
+{
+  "id": "geo",
+  "name": "Geolatro",
+  "author": [
+    "FrenchFryFan"
+  ],
+  "description": "[WIP] Balatro mod adding Geoguessr-inspired content",
+  "prefix": "geo",
+  "main_file": "main.lua",
+  "version": "0.1.0",
+  "priority": 0,
+  "badge_colour": "008833",
+  "badge_text_colour": "EEEEEE",
+  "display_name": "Geolatro",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0404a)"
+  ],
+  "conflicts": [],
+  "provides": []
+}
